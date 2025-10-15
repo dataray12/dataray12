@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1DA1F2&center=false&vCenter=true&width=550&lines=Hi+I'm+Muhammad+Rayyan;Data+Analyst+at+PTIS;Turning+Data+Into+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1DA1F2&center=false&vCenter=true&width=550&lines=Hi+I'm+Muhammad+Rayyan;Data+Analyst+at+PTIS;Turning+Chaos+Into+Clarity)](https://git.io/typing-svg)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dataray12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)  
 
