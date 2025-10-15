@@ -1,7 +1,3 @@
-![Header](https://i.ibb.co/1Tb9P3T/github-banner.png)
-
-
-# Hi, I'm Muhammad Rayyan 👋  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1DA1F2&center=false&vCenter=true&width=550&lines=Hi+I'm+Muhammad+Rayyan;Data+Analyst+at+Premier+Tubular+Inspection+Services;Turning+Data+Into+Insights)](https://git.io/typing-svg)
 
