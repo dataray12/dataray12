@@ -51,13 +51,13 @@ Currently working at **Techma Zone** as a **Data Analyst**, I focus on designing
 
 ## 🚀 Featured Projects  
 
-- [🚦 **Overspeeding Project**](#)  
+- [🚦 **Overspeeding Project**](https://github.com/dataray12/Overspeeding_project)  
   *A data-driven system analyzing vehicle speed trends to detect and report overspeeding behavior.*  
 
-- [🧠 **LMS-PTIS**](#)  
+- [🧠 **LMS-PTIS**](https://github.com/dataray12/lms-PTIS)  
   *An intelligent learning management system for inspection services with automated analytics and result tracking.*  
 
-- [🚶 **Walk Calorie Tracker**](#)  
+- [🚶 **Walk Calorie Tracker**](https://github.com/dataray12/walk-calorie-tracker)  
   *A React-based app that tracks walking activity and estimates calories burned using live data.*  
 
 ---
