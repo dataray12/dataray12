@@ -4,9 +4,9 @@
 
 ## 💫 About Me  
 
-I’m **Muhammad Rayyan**, a passionate **Data Analyst** who loves transforming raw data into meaningful, actionable insights. I see data as a bridge between questions and answers — and I use analytics, visualization, and automation to build that bridge.  
+I’m Muhammad Rayyan, a dedicated Data Analyst passionate about turning raw information into valuable, actionable insights. I view data as the key link between problems and solutions, using analytics, visualization, and automation to uncover meaning and drive better decisions.
 
-Currently working at **Techma Zone** as a **Data Analyst**, I focus on designing end-to-end analytical workflows, from data ingestion to visualization, and building intelligent systems that simplify business decisions. My work blends **Python, Power BI, SQL, and Microsoft Fabric** to uncover trends, automate reporting, and drive impact through data.  
+I’m presently working at Premier Tubular Inspection Services as a Data Analyst, where I design and implement complete analytical workflows, from data collection to visualization. My work involves leveraging Python, Power BI, SQL, and Microsoft Fabric to identify trends, streamline reporting, and deliver data-driven solutions that enhance business performance.  
 
 ## 🔭 What I Do  
 
