@@ -65,9 +65,9 @@ Currently working at **Techma Zone** as a **Data Analyst**, I focus on designing
 ## 📊 GitHub Stats  
 
 <p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=rayyansalman&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rayyansalman&theme=tokyonight&hide_border=true" alt="streak" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyansalman&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=dataray12&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dataray12&theme=tokyonight&hide_border=true" alt="streak" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dataray12&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />  
 </p>  
 
 ---
