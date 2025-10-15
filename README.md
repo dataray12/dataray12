@@ -1,14 +1,33 @@
+![Header](https://i.ibb.co/1Tb9P3T/github-banner.png)
+
 # Hi, I'm Muhammad Rayyan 👋  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rayyansalman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1DA1F2&center=false&vCenter=true&width=550&lines=Hi+I'm+Muhammad+Rayyan;Data+Analyst+at+Premier+Tubular+Inspection+Services;Turning+Data+Into+Insights)](https://git.io/typing-svg)
 
-## About Me  
+![trophy](https://github-profile-trophy.vercel.app/?username=dataray12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)  
 
-I’m Muhammad Rayyan, a dedicated Data Analyst passionate about turning raw information into valuable, actionable insights. I view data as the key link between problems and solutions, using analytics, visualization, and automation to uncover meaning and drive better decisions.
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
+![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql)
 
-I’m presently working at Premier Tubular Inspection Services as a Data Analyst, where I design and implement complete analytical workflows, from data collection to visualization. My work involves leveraging Python, Power BI, SQL, and Microsoft Fabric to identify trends, streamline reporting, and deliver data-driven solutions that enhance business performance.  
+## 💫 About Me  
 
-## What I Do  
+I’m **Muhammad Rayyan**, a dedicated **Data Analyst** passionate about turning raw information into valuable, actionable insights. I view data as the key link between problems and solutions, using analytics, visualization, and automation to uncover meaning and drive better decisions.
+
+I’m presently working at **Premier Tubular Inspection Services** as a **Data Analyst**, where I design and implement complete analytical workflows, from data collection to visualization. My work involves leveraging **Python, Power BI, SQL, and Microsoft Fabric** to identify trends, streamline reporting, and deliver data-driven solutions that enhance business performance.  
+
+---
+
+## 🌱 Currently Exploring  
+- Advanced Data Modeling in Microsoft Fabric  
+- Building AI-assisted analytics dashboards  
+- Streamlit + Power BI integration for live data apps  
+
+---
+
+## 🔭 What I Do  
 
 - Data cleaning, transformation, and analysis using **Python** & **Pandas**  
 - Building interactive dashboards in **Power BI** & **Microsoft Fabric**  
@@ -16,7 +35,9 @@ I’m presently working at Premier Tubular Inspection Services as a Data Analyst
 - Database management, querying, and optimization using **SQL / SQLite**  
 - Automating reporting pipelines and creating smart insights for decision-making  
 
-## Tech Stack  
+---
+
+## 🛠 Tech Stack  
 
 ### **Programming & Data Analysis**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,20 +70,27 @@ I’m presently working at Premier Tubular Inspection Services as a Data Analyst
 
 ---
 
-## Featured Projects  
+## 🚀 Featured Projects  
 
-- [**Overspeeding Project**](https://github.com/dataray12/Overspeeding_project)  
-  *A data-driven system analyzing vehicle speed trends to detect and report overspeeding behavior.*  
+### [**Overspeeding Project**](https://github.com/dataray12/Overspeeding_project)
+*A data-driven system analyzing vehicle speed trends to detect and report overspeeding behavior.*  
 
-- [**LMS-PTIS**](https://github.com/dataray12/lms-PTIS)  
-  *An intelligent learning management system for inspection services with automated analytics and result tracking.*  
+### [**LMS-PTIS**](https://github.com/dataray12/lms-PTIS)
+*An intelligent learning management system for inspection services with automated analytics and result tracking.*  
 
-- [**Walk Calorie Tracker**](https://github.com/dataray12/walk-calorie-tracker)  
-  *A React-based app that tracks walking activity and estimates calories burned using live data.*  
+### [**Walk Calorie Tracker**](https://github.com/dataray12/walk-calorie-tracker)
+*A React-based app that tracks walking activity and estimates calories burned using live data.*  
 
 ---
 
-## GitHub Stats  
+## 🏆 Certifications & Achievements  
+- Microsoft Certified: Data Analyst Associate  
+- Google Data Analytics Professional Certificate  
+- Built 5+ end-to-end data projects integrating Python, SQL, and Power BI  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=dataray12&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />  
@@ -70,11 +98,26 @@ I’m presently working at Premier Tubular Inspection Services as a Data Analyst
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dataray12&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />  
 </p>  
 
+![Rayyan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dataray12&theme=tokyo-night)
+
 ---
 
-## Connect With Me  
+## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-salman-543514212/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayyansalman44@gmail.com)  
 
-![Profile views](https://komarev.com/ghpvc/?username=rayyansalman&label=Profile%20Views&color=0e75b6&style=flat)  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dataray12)
+![Profile views](https://komarev.com/ghpvc/?username=dataray12&label=Profile%20Views&color=0e75b6&style=flat)  
+
+---
+
+> *"Data doesn’t speak for itself — it needs a storyteller."*  
+> — Muhammad Rayyan  
+
+---
+
+💡 *Let’s connect and build something data-driven together!*  
+⭐️ From [Muhammad Rayyan](https://github.com/dataray12)
+
+_Last updated: October 2025_
